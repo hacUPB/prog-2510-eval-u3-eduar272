@@ -38,4 +38,4 @@ indice_Hierro = elementos.index("Hierro")
 print("Índice de Hierro:", indice_Hierro)
 
 '''
-frase = 
+
